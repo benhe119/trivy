@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/aquasecurity/fanal v0.0.0-20200306122936-f0a17242a9a0
 	github.com/aquasecurity/go-dep-parser v0.0.0-20190819075924-ea223f0ef24b
-	github.com/aquasecurity/trivy-db v0.0.0-20191226181755-d6cabf5bc5d1
+	github.com/aquasecurity/trivy-db v0.0.0-20200307015035-2df656d9c333
 	github.com/caarlos0/env/v6 v6.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.0.3
